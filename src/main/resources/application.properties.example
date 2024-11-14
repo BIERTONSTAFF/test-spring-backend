@@ -1,0 +1,7 @@
+spring.application.name=test-spring-backend
+spring.data.mongodb.host=
+spring.data.mongodb.port=27017
+spring.data.mongodb.database=test-spring-backend
+spring.data.mongodb.username=root
+spring.data.mongodb.password=
+spring.data.mongodb.authentication-database=admin
